@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/FaSe22/testing/compare/v1.0.0...v1.0.1) (2024-06-12)
+
+
+### Performance Improvements
+
+* optimize xml parser performance ([42de36a](https://www.github.com/FaSe22/testing/commit/42de36aabd7cc74f4bb19992ef14bd46faf5a456))
+* optimize xml parser performance ([42de36a](https://www.github.com/FaSe22/testing/commit/42de36aabd7cc74f4bb19992ef14bd46faf5a456))
+* optimize xml parser performance ([f157fe7](https://www.github.com/FaSe22/testing/commit/f157fe721da3a57f66e0da291c0cc2fc9ec83cc2))
+
 ## 1.0.0 (2024-06-12)
 
 
